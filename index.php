@@ -12,6 +12,7 @@ and open the template in the editor.
         <?php
         echo "hello world!<br/>We're figuring out Git and github!";
         echo "<p>I made another change</p>";
+        echo "<p>I made another change from another computer</p>";
         ?>
     </body>
 </html>
