@@ -14,7 +14,12 @@ and open the template in the editor.
         echo "<p>I made another change</p>";
         echo "<p>I made another change from another computer</p>";
         
-        echo "<p>trying to merge branches</p>"
+
+        echo "<p>trying to merge branches</p>";
+
+        echo "This is the first edit in a new branch.";
+        
+
         ?>
     </body>
 </html>
