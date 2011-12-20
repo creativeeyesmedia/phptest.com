@@ -19,6 +19,8 @@ and open the template in the editor.
 
         echo "This is the first edit in a new branch.";
         
+        echo "And now and edit from the desktop";
+        
 
         ?>
     </body>
