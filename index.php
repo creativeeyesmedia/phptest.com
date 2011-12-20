@@ -21,6 +21,8 @@ and open the template in the editor.
         
         echo "And now and edit from the desktop";
         
+        echo "And now and edit from the desktop in a new branch called branch2";
+        
 
         ?>
     </body>
