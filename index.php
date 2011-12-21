@@ -14,16 +14,11 @@ and open the template in the editor.
         echo "<p>I made another change</p>";
         echo "<p>I made another change from another computer</p>";
         
-
-        echo "<p>trying to merge branches</p>";
-
         echo "This is the first edit in a new branch.";
         
-        echo "And now and edit from the desktop";
-        
-        echo "And now a branch from the desktop in a new branch called branch2";
-        
-
         ?>
+        
+        <p>Not really sure why I'm writing echo statements at this point.  Seems pointless.</p>
+        
     </body>
 </html>
