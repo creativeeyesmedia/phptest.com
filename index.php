@@ -17,5 +17,8 @@ and open the template in the editor.
         echo "This is the first edit in a new branch."
         
         ?>
+        
+        <p>Not really sure why I'm writing echo statements at this point.  Seems pointless.</p>
+        
     </body>
 </html>
