@@ -11,7 +11,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "hello world!<br/>We're figuring out Git and github!";
-        echo "<p>I made another change</p>";
+        echo "<p style='background-color: yellow;'>I made another change</p>";
         echo "<p>I made another change from another computer</p>";
         
         echo "This is the first edit in a new branch."
